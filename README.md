@@ -10,7 +10,7 @@ Welcome to the Pymaceuticals Analysis Project! This repository houses the detail
 - The challenge has its own folder (Pymaceuticals) with the following files:
   - A .ipynb file: Jupiter Notebook Report for analysis.
   - A .docx file: Stores analysis results.
-  - A Resources Folder: Contains the two datasets to be analysed:
+  - A data Folder: Contains the two datasets to be analysed:
     - Mouse_metadata.csv: Contains the metadata for each mouse.
     - Study_results.csv: Contains the results of the study including the tumor volume measurements.
 
